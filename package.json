@@ -29,7 +29,7 @@
     "node-fetch": "^2.1.2",
     "rxjs": "^6.0.0",
     "rxjs-compat": "^6.0.0",
-    "sharp": "^0.20.1",
+    "sharp": "^0.30.5",
     "simpl-schema": "^1.5.0"
   },
   "devDependencies": {
